@@ -1,0 +1,28 @@
+{
+  "total": 5,
+  "avg_score": 0.481,
+  "min_score": 0.34,
+  "max_score": 0.613,
+  "avg_latency": 5.24,
+  "p95_latency": 8.79,
+  "total_tokens": 656,
+  "avg_tokens": 131.0,
+  "error_count": 0,
+  "by_difficulty": {
+    "simple": {
+      "count": 2,
+      "avg_score": 0.486,
+      "avg_latency": 4.34
+    },
+    "medium": {
+      "count": 2,
+      "avg_score": 0.416,
+      "avg_latency": 4.36
+    },
+    "complex": {
+      "count": 1,
+      "avg_score": 0.6,
+      "avg_latency": 8.79
+    }
+  }
+}
