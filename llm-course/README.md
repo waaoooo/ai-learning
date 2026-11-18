@@ -30,16 +30,16 @@
 - [x] L2-05 应用实战：HR 制度智能问答
 - [x] L2-06 应用实战：混合检索医疗实体
 - [x] L2-07 商业化 RAG 痛点分析
-- [ ] L2-08 Advanced RAG：Pre-Retrieval（索引优化 / 查询优化）
-- [ ] L2-09 Advanced RAG：混合检索 + Post-Retrieval（rerank / RAG-Fusion / 上下文压缩）
-- [ ] L2-10 Advanced RAG 实战：金融助手 / 多模态图文检索
-- [ ] L2-11 RAG 应用评估（Ragas / Trulens）
-- [ ] L2-12 RAGFlow / FastGPT / Dify 剖析
-- [ ] L2-13 LangChain 应用生命周期与 Model I/O
-- [ ] L2-14 LangChain 链与 LCEL
+- [x] L2-08 Advanced RAG：Pre-Retrieval（索引优化 / 查询优化）
+- [x] L2-09 Advanced RAG：混合检索 + Post-Retrieval（rerank / RAG-Fusion / 上下文压缩）
+- [x] L2-10 Advanced RAG 实战：金融助手 / 多模态图文检索
+- [x] L2-11 RAG 应用评估（Ragas / Trulens）
+- [x] L2-12 RAGFlow / FastGPT / Dify 剖析
+- [x] L2-13 LangChain 应用生命周期与 Model I/O
+- [x] L2-14 LangChain 链与 LCEL
 - [ ] L2-15 LangChain 与 RAG
 - [ ] L2-16 LangChain 工具调用
-- [ ] L2-17 RAG 评估深入（指标 / 实战 / 2023 汽车赛）
+- [ ] L2-17 通用文档智能问答系统商业化实战
 
 ### L3 · Agent 智能体架构设计（待做）
 ### L4 · 微调与私有化部署（待做）
